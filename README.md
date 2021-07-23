@@ -1,2 +1,4 @@
 # labelimg
 直接可以下的图像标注工具labelimg
+
+直接可以在conda上安装labelimg和labelme
